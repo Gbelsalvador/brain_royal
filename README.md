@@ -38,7 +38,7 @@ Ce projet est une application web PHP permettant de gérer des tournois de type 
 - Utilisation de PDO pour la connexion à la base de données (protection contre les injections SQL).
 
 ## Auteurs
-- [Votre nom]
+- [gb el salvador]
 
 ## Licence
 Ce projet est fourni à des fins éducatives. À adapter selon vos besoins.
